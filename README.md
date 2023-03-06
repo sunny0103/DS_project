@@ -1,8 +1,8 @@
-# personal_project_fromdatacamp
+# Data Science project 
+The Data source is diverse. It will elaborate more details on each project's readme file
 
-### Data from datacamp 
-
-#### crowdfunding marketing data set
+## crowdfunding marketing data set
+- Source of data : Datacamp
 - Analyze data for marketing campaign 
 - Creating a single visualization to explore the data
 - Including  following 3 questions

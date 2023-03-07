@@ -8,7 +8,7 @@
  #### Summary
  - Circulatory is the most common primary diagnosis above age 50s but age of 40s are more diagnosis as other reason.
  - The second and the third diagnosis are other and respiratory.
- - As some doctors' belief in relationship between readmission and diabetes, there are rrelation between readmission and diabetes
+ - As some doctors' belief in relationship between readmission and diabetes, Readmission is related with diabetes
  - Number of lab procedure, number of medication, times in hospital, number of procedure, outpatient and inpatient features are important feature to predict whether       or not patients' readmissions.
  - Patients who has higher number of inpatient are higher chance to readmission but  lower number of inpatient is less likely to readmitted to the hospital.
  - The number of emergency and outpatient numbers are the same as inpatient feature explanation. Patients who often carries in emergency and visit the hospital as          outpatient are more likely to be readmitted compared to those are not. 

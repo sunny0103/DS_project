@@ -19,8 +19,6 @@ The Data source is diverse. It will elaborate more details on each project's rea
     - The effect of a diabetes diagnosis on readmission rates
     - Groups of patients should the hospital focus their follow-up efforts to better monitor patients with a high probability of readmission
     
- ## Cancer Data
- - source from sklearn
- - practice DNN with pytorch
+
 
  

@@ -1,5 +1,5 @@
 # Data Science project 
-The Data source is diverse. It will elaborate more details on each project's readme file
+The Data source is diverse. It will elaborate more details on its notebook
 
 ## crowdfunding marketing data set
 - Source of data : Datacamp

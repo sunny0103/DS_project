@@ -16,5 +16,5 @@
 
 #### Limitation
 - The accuracy score of model is not high enough. Hence it requires search hyperparameters to enhance its prediction score. 
-- In Here, the only one model is used for prediction of readmission of patients. It will be more powerful if it uses other models such as logistic regression, KNN which are different methodology to predict problems. 
+  
 
